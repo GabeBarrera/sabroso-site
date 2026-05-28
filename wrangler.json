@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "sabroso-site",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "c1e3f567-75c3-4c02-aa73-8a92d6c6f26e",
+			"database_name": "sabroso"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
